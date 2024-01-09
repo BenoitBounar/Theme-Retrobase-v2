@@ -35,8 +35,7 @@ SystemView :
 
 Gamelistview :  
 ![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Gamelist2.png) 
-![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Gamelist3.png) 
-Gamelistview FontSize option (6px 7px 8px)  
+![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Gamelist3.png)   Gamelistview FontSize option (6px 7px 8px)  
 ![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.2/Gamelist_6px.png)
 ![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.2/Gamelist_7px.png)
 ![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.2/Gamelist_8px.png) 
