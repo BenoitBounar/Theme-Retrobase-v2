@@ -13,7 +13,7 @@ Recalbox >9 : OK
 Version 1.3 : [retrobase-240p_1.2.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.3.zip)  
 
 
-Version 1.2 : [retrobase-240p_1.2.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.2.zip) 
+Version 1.2 : [retrobase-240p_1.2.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.2.zip)  
 Version 1.1 : [retrobase-240p_1.1.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.1.zip)  
 
 
