@@ -12,7 +12,7 @@
 			<secondaryColor>ffffff</secondaryColor>
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
 			<fontSize>6</fontSize>
-			<alignment>right</alignment>
+			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<selectorHeight>0.04</selectorHeight>
 			<zIndex>80</zIndex>

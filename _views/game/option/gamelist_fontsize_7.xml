@@ -10,7 +10,7 @@
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>			
-			<alignment>right</alignment>
+			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<selectorHeight>0.05</selectorHeight>
 			<zIndex>80</zIndex>
