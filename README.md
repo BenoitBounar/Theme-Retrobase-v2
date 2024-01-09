@@ -3,7 +3,7 @@ RETROBASE 240p for Recalbox RGBDUAL
 Based and Adaptated from recalbox theme for 240p
 
 Version : 1.3 - 09/01/2024   
-Author : Benoit BOUNAR Bounitos
+Author : Bounitos
 
 ## Compatibility : 
 Recalbox <9 : No tested  
