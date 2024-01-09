@@ -2,47 +2,54 @@ RETROBASE 240p for Recalbox RGBDUAL
 --------------------------------------------------------------------
 Based and Adaptated from recalbox theme for 240p
 
-Version : 1.2 - 29/12/2023   
-Author : Bounitos
+Version : 1.3 - 09/01/2024   
+Author : Benoit BOUNAR Bounitos
 
 ## Compatibility : 
-Recalbox <9 : Non tested  
+Recalbox <9 : No tested  
 Recalbox >9 : OK  
 
 ## Download
-Version 1.2 : [retrobase-240p_1.2.zip](https://drive.google.com/file/d/1a8nbyjQuNKr9gG9lvxDUr0wbupZPiSYz/view?usp=drive_link) 
+Version 1.3 : [retrobase-240p_1.2.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.3.zip)  
 
 
-Version 1.1 : [retrobase-240p_1.1.zip](https://drive.google.com/file/d/1kNl7D5eBGL_OTnBDNKEwX4wIU8uEfBjd/view?usp=sharing)  
+Version 1.2 : [retrobase-240p_1.2.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.2.zip) 
+Version 1.1 : [retrobase-240p_1.1.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.1.zip)  
 
 
 
 ## Screenshot
 
 SystemView with Helpbar:  
-![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview.png?raw=true)  
+![Systemeview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Systemview.png)  
 SystemView :  
-![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_allgames.png?raw=true)
-![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Atari2600.png?raw=true)
-![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Atari-lynx.png?raw=true)
-![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Dreamcast.png?raw=true)
-![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Game-boy.png?raw=true)
-![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Megadrive.png?raw=true)
-![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Nintendo64.png?raw=true)
-![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Sega-saturn.png?raw=true) 
-![Systemeview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Systemview_Vectrex.png?raw=true)  
+![Systemeview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Systemview_allgames.png)
+![Systemeview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Systemview_Atari2600.png)
+![Systemeview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Systemview_Atari-lynx.png)
+![Systemeview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Systemview_Dreamcast.png)
+![Systemeview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Systemview_Game-boy.png)
+![Systemeview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Systemview_Megadrive.png)
+![Systemeview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Systemview_Nintendo64.png)
+![Systemeview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Systemview_Sega-saturn.png) 
+![Systemeview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Systemview_Vectrex.png)  
 
 Gamelistview :  
-![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Gamelist2.png?raw=true) 
-![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Gamelist3.png?raw=true) 
+![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Gamelist2.png) 
+![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Gamelist3.png) 
 Gamelistview FontSize option (6px 7px 8px)  
-![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.2/Gamelist_6px.png?raw=true)
-![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.2/Gamelist_7px.png?raw=true)
-![Gamelistview](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.2/Gamelist_8px.png?raw=true) 
+![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.2/Gamelist_6px.png)
+![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.2/Gamelist_7px.png)
+![Gamelistview](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.2/Gamelist_8px.png) 
 
-![Menu](https://github.com/BenoitBounar/Theme-Retrobase240p/blob/main/Screenshots/240p/v1.1/Menu.png?raw=true) 
+![Menu](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Menu.png) 
 
 ## Changelog
+```
+09/01/2024 : Version 1.3  
+- Fontsize menu fix - pixel perfect
+- Gamelist align left for better compatibility (flag + arcade system view)
+- Add Logos (Naomigd, Screenshot, PCengine CD)
+```
 ```
 29/12/2023 : Version 1.2  
 - Fontsize fix
