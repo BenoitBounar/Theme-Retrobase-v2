@@ -48,7 +48,7 @@ Gamelistview FontSize option (6px 7px 8px)
 
 ## Changelog
 ```
-10/01/2024 : Version 1.3  
+10/01/2024 : Version 1.4  
 - Fix TATE background + logo
 - Add missing logos (systems + virtual systems)
 ```
