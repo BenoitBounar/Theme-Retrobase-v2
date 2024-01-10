@@ -2,7 +2,7 @@ RETROBASE 240p for Recalbox RGBDUAL
 --------------------------------------------------------------------
 Based and Adaptated from recalbox theme for 240p
 
-Version : 1.3 - 09/01/2024   
+Version : 1.4 - 10/01/2024   
 Author : Bounitos
 
 ## Compatibility : 
@@ -10,9 +10,11 @@ Recalbox <9 : No tested
 Recalbox >9 : OK  
 
 ## Download
-Version 1.3 : [retrobase-240p_1.3.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.3.zip)  
+Lastest Version  
+Version 1.4 : [retrobase-240p_1.4.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.4.zip)  
 
-
+Older versions  
+Version 1.3 : [retrobase-240p_1.2.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.3.zip)  
 Version 1.2 : [retrobase-240p_1.2.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.2.zip)  
 Version 1.1 : [retrobase-240p_1.1.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.1.zip)  
 
@@ -46,6 +48,11 @@ Gamelistview FontSize option (6px 7px 8px)
 
 ## Changelog
 ```
+10/01/2024 : Version 1.3  
+- Fix TATE background + logo
+- Add missing logos (systems + virtual systems)
+```
+```
 09/01/2024 : Version 1.3  
 - Fontsize menu fix - pixel perfect
 - Gamelist align left for better compatibility (flag + arcade system view)
@@ -61,5 +68,5 @@ Gamelistview FontSize option (6px 7px 8px)
 ```
 ```
 19/12/2023 - Version : 1.1 
-- Initial 
+- Init
 ```
