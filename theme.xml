@@ -47,19 +47,19 @@
 	<!-- SOUND -->
 	<view name="system">
 		<sound name="directory">
-			<path>../recalbox-next/music</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/music</path>
 		</sound>
 	</view>
 
 	<!-- MENU -->
 	<view name="menu">
-		<menuSwitch name="menuswitch">
-		</menuSwitch>
 		<menuSize name="menuSize">
 			<height>0.7</height>
 		</menuSize>
-		<helpsystem name="help">
-		</helpsystem>
+        <menuButton name="menubutton">
+            <path>./_assets/img/px_purple.png</path>
+            <filledPath>./_assets/img/input.png</filledPath>
+        </menuButton> 
 		<menuText name="menufooter">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
 			<fontSize>7</fontSize>
@@ -93,7 +93,7 @@
 		<helpsystem name="help">
 			<fontPath>:/f8bitfortressplus.ttf</fontPath>
 			<fontSize>7</fontSize>
-			<pos>0.01 0.93</pos>
+			<pos>0.04 0.93</pos>
 		</helpsystem>
 	</view> 
 

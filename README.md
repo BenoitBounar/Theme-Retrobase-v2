@@ -11,9 +11,10 @@ Recalbox >9 : OK
 
 ## Download
 Lastest Version  
-Version 1.4 : [retrobase-240p_1.4.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.4.zip)  
+Version 1.5 : [retrobase-240p_1.5.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.5.zip)  
 
 Older versions  
+Version 1.4 : [retrobase-240p_1.4.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.4.zip)  
 Version 1.3 : [retrobase-240p_1.2.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.3.zip)  
 Version 1.2 : [retrobase-240p_1.2.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.2.zip)  
 Version 1.1 : [retrobase-240p_1.1.zip](https://www.bounar.fr/Themes_es/Retrobase240p/retrobase-240p_1.1.zip)  
@@ -47,6 +48,11 @@ Gamelistview FontSize option (6px 7px 8px)
 ![Menu](https://www.bounar.fr/Themes_es/Retrobase240p/Screenshots/240p/v1.1/Menu.png) 
 
 ## Changelog
+```
+22/01/2024 : Version 1.4  
+- Fix Tvalidation buttons colors
+- Helpbar left ajustement fort CRT with overscan
+```
 ```
 10/01/2024 : Version 1.4  
 - Fix TATE background + logo
