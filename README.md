@@ -49,9 +49,9 @@ Gamelistview FontSize option (6px 7px 8px)
 
 ## Changelog
 ```
-24/01/2024 : Version 1.4  
-- Fix Tvalidation buttons colors
-- Helpbar left ajustement fort CRT with overscan
+24/01/2024 : Version 1.5  
+- Fix validation buttons colors
+- Helpbar left ajustement for CRT with overscan
 ```
 ```
 10/01/2024 : Version 1.4  
