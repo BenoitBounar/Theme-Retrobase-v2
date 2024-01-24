@@ -2,7 +2,7 @@ RETROBASE 240p for Recalbox RGBDUAL
 --------------------------------------------------------------------
 Based and Adaptated from recalbox theme for 240p
 
-Version : 1.4 - 10/01/2024   
+Version : 1.5 - 24/01/2024   
 Author : Bounitos
 
 ## Compatibility : 
@@ -49,7 +49,7 @@ Gamelistview FontSize option (6px 7px 8px)
 
 ## Changelog
 ```
-22/01/2024 : Version 1.4  
+24/01/2024 : Version 1.4  
 - Fix Tvalidation buttons colors
 - Helpbar left ajustement fort CRT with overscan
 ```
